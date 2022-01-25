@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-Your text
+"Brevity is the soul of wit" --anon
 Use the left arrow to go back!
